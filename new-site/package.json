@@ -17,7 +17,7 @@
     "lint:backend": "echo 'Backend lint complete'"
   },
   "devDependencies": {
-    "turbo": "^1.13.0",
+    "turbo": "^2.9.14",
     "concurrently": "^8.2.2"
   }
 }
